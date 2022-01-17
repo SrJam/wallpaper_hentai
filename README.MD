@@ -8,3 +8,10 @@
 
 3 - Akaneko (95% NSFW) *QUALIDADE GERALMENTE MERDA, AS VEZES TEM ALGO BOM*
 
+**INSTALL**
+
+`pip install -r requeriments.txt`
+
+e ai é só rodar com o `python main.py`
+
+**SÓ FUNCIONA NO WINDOWS, POR ENQUANTO**
