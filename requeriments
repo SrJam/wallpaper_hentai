@@ -1,0 +1,4 @@
+requests>=2.27.1
+colorthief>=0.2.1
+Pillow>=9.0.0
+
